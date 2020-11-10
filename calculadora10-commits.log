@@ -1,0 +1,37 @@
+commit 93a03e269f1c3c3a95fa7ee8ddac41139ab63135
+Author: Albert Munoz <albert.munozp@gmail.com>
+Date:   Wed Nov 4 18:50:33 2020 -0300
+
+    Revert "update README"
+    
+    This reverts commit 3922b0d0f91367c64347cd73b56e6bea24788443.
+
+commit 3922b0d0f91367c64347cd73b56e6bea24788443
+Author: Albert Munoz <albert.munozp@gmail.com>
+Date:   Wed Nov 4 18:50:18 2020 -0300
+
+    update README
+
+commit 3bc29a6a2acd79648825b585d16e74e4c6acf07a
+Author: Albert Munoz <albert.munozp@gmail.com>
+Date:   Wed Nov 4 18:49:28 2020 -0300
+
+    se sube README
+
+commit 6ea74d73e20d5d19d73ccc093423cf37bff52242
+Author: Albert Munoz <albert.munozp@gmail.com>
+Date:   Wed Nov 4 18:48:43 2020 -0300
+
+    update gitignore
+
+commit 89b19454f52b2357d03510d8f665d55378be421d
+Author: Albert Munoz <albert.munozp@gmail.com>
+Date:   Wed Nov 4 18:42:46 2020 -0300
+
+    se sube directorio Test
+
+commit 54983e3ab47d2018d4b17b7c2ac51178e0c78240
+Author: Albert Munoz <albert.munozp@gmail.com>
+Date:   Wed Nov 4 18:39:39 2020 -0300
+
+    Primer commit -- subida proyecto
